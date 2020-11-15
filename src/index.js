@@ -82,7 +82,7 @@ function doIt() {
 function Home() {
   return (
     <div className="main">
-      <h2>Welcome to Conway's game of life! hah</h2>
+      <h2>Welcome to Conway's game of life! hahaa</h2>
       <br />
       <br />
       <label htmlFor="rows">Rows:</label>
